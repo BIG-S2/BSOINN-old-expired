@@ -1,19 +1,19 @@
 # BSOLNN: Bayesian Scalar on Image Regression with Non-ignorable Non-response
 
 # Table of contents
- * [BSOINN-package](#BSOINN-package)
+ [BSOINN-package]
  
-    i. [Overview](#Overview)
+    i. [Overview]
     
-    ii. [Installing BSOINN](#Installing BSOINN)
+    ii. [Installing BSOINN]
     
-    iii. [Democode-FPCA-on-images](#Democode-FPCA-on-images)
+    iii. [Democode-FPCA-on-images]
     
-    iv. [Democode-simulation](#Democode-simulation)
+    iv. [Democode-simulation]
     
-    v. [Democode-realdata](#Democode-realdata)
+    v. [Democode-realdata]
     
-    vi. [Implementing Democode](#implementing Democode)
+    vi. [Implementing Democode]
     
 
 # BSOINN-package <a name="The packageod"></a>
