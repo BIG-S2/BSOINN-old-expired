@@ -2,11 +2,17 @@
 
 # Table of contents
  * [BSOINN-package](#BSOINN-package)
+ 
     i. [Overview](#Overview)
+    
     ii. [Installing BSOINN](#Installing BSOINN)
+    
     iii. [Democode-FPCA-on-images](#Democode-FPCA-on-images)
+    
     iv. [Democode-simulation](#Democode-simulation)
+    
     v. [Democode-realdata](#Democode-realdata)
+    
     vi. [Implementing Democode](#implementing Democode)
     
 
